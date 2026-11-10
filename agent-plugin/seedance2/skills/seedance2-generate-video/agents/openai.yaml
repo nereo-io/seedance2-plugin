@@ -1,0 +1,13 @@
+interface:
+  display_name: "Seedance 2: Generate Video"
+  short_description: "One Seedance video clip"
+  default_prompt: "Use $seedance2-generate-video to make a 5-second Seedance 2.5 clip of what I describe."
+dependencies:
+  tools:
+    - type: "mcp"
+      value: "seedance2"
+      description: "Seedance 2 video and image generation"
+      transport: "streamable_http"
+      url: "https://www.seedance2.net/mcp"
+policy:
+  allow_implicit_invocation: true

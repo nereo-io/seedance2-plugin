@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "seedance2": {
+      "type": "http",
+      "url": "https://www.seedance2.net/mcp"
+    }
+  }
+}

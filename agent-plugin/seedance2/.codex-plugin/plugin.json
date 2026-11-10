@@ -1,0 +1,43 @@
+{
+  "name": "seedance2",
+  "version": "0.1.0",
+  "description": "Generate Seedance 2.5 and 2.0 videos and AI images from your assistant.",
+  "author": {
+    "name": "Seedance 2"
+  },
+  "homepage": "https://www.seedance2.net",
+  "repository": "https://github.com/nereo-io/seedance2-plugin",
+  "keywords": [
+    "seedance",
+    "seedance-2",
+    "seedance-2-5",
+    "ai-video-generator",
+    "text-to-video",
+    "image-to-video",
+    "video-ads",
+    "ugc-ads",
+    "ai-image-generator",
+    "mcp"
+  ],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "Seedance 2",
+    "shortDescription": "Make Seedance videos",
+    "longDescription": "Make Seedance 2.5 and Seedance 2.0 videos, and AI images, inside your AI assistant: text to video, image to video, reference to video, product ads, UGC ads, storyboards and short dramas. After adding, connect Seedance 2 and sign in.",
+    "developerName": "Seedance 2",
+    "category": "Creativity",
+    "capabilities": [
+      "Interactive",
+      "Write"
+    ],
+    "websiteURL": "https://www.seedance2.net",
+    "privacyPolicyURL": "https://www.seedance2.net/privacy-policy",
+    "termsOfServiceURL": "https://www.seedance2.net/terms-of-service",
+    "defaultPrompt": [
+      "Make a 5-second Seedance 2.5 clip of a coffee cup on a rainy window sill.",
+      "Animate this product photo into a 6-second vertical ad.",
+      "Plan a 30-second video from my idea, then render the first shot."
+    ]
+  }
+}

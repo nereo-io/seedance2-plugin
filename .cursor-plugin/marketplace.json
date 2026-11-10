@@ -1,0 +1,17 @@
+{
+  "name": "seedance2-marketplace",
+  "owner": {
+    "name": "Seedance 2",
+    "email": "support@seedance.tv"
+  },
+  "metadata": {
+    "description": "Seedance 2 plugin for Cursor"
+  },
+  "plugins": [
+    {
+      "name": "seedance2",
+      "source": "agent-plugin/seedance2",
+      "description": "Generate Seedance 2.5 and 2.0 videos and AI images from your assistant."
+    }
+  ]
+}

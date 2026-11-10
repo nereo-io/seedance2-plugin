@@ -1,0 +1,32 @@
+{
+  "name": "seedance2",
+  "displayName": "Seedance 2",
+  "version": "0.1.0",
+  "description": "Generate Seedance 2.5 and 2.0 videos and AI images from your assistant.",
+  "author": {
+    "name": "Seedance 2",
+    "email": "support@seedance.tv"
+  },
+  "homepage": "https://www.seedance2.net",
+  "repository": "https://github.com/nereo-io/seedance2-plugin",
+  "keywords": [
+    "seedance",
+    "seedance-2",
+    "seedance-2-5",
+    "ai-video-generator",
+    "text-to-video",
+    "image-to-video",
+    "video-ads",
+    "ugc-ads",
+    "ai-image-generator",
+    "mcp"
+  ],
+  "category": "productivity",
+  "tags": [
+    "video",
+    "images",
+    "seedance",
+    "mcp"
+  ],
+  "mcpServers": "./mcp.json"
+}

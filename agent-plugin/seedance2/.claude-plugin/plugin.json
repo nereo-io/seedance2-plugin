@@ -1,0 +1,29 @@
+{
+  "name": "seedance2",
+  "displayName": "Seedance 2: AI Video Generation in Claude",
+  "description": "Make Seedance 2.5 and Seedance 2.0 videos, and AI images, inside your AI assistant: text to video, image to video, reference to video, product ads, UGC ads, storyboards and short dramas. After adding, connect Seedance 2 and sign in.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Seedance 2",
+    "url": "https://www.seedance2.net",
+    "email": "support@seedance.tv"
+  },
+  "homepage": "https://www.seedance2.net",
+  "icon": "./.claude-plugin/icon.png",
+  "documentationUrl": "https://www.seedance2.net/plugin",
+  "privacyPolicyUrl": "https://www.seedance2.net/privacy-policy",
+  "termsOfServiceUrl": "https://www.seedance2.net/terms-of-service",
+  "repository": "https://github.com/nereo-io/seedance2-plugin",
+  "keywords": [
+    "seedance",
+    "seedance-2",
+    "seedance-2-5",
+    "ai-video-generator",
+    "text-to-video",
+    "image-to-video",
+    "video-ads",
+    "ugc-ads",
+    "ai-image-generator",
+    "mcp"
+  ]
+}
