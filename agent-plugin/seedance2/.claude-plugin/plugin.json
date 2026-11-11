@@ -25,5 +25,6 @@
     "ugc-ads",
     "ai-image-generator",
     "mcp"
-  ]
+  ],
+  "license": "MIT"
 }
